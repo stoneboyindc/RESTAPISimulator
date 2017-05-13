@@ -1,0 +1,3296 @@
+[
+  {
+    "Code": "7L",
+    "Airline": "AB Airlines",
+    "Country": "UK",
+    "Description": "London Gatwick to Nice, Shannon and Barcelona"
+  },
+  {
+    "Code": "----",
+    "Airline": "ABX Air",
+    "Country": "USA",
+    "Description": "cargo airline headquartered in Wilmington, Ohio with a fleet of over 100 aircraft"
+  },
+  {
+    "Code": "ZA",
+    "Airline": "AccessAir",
+    "Country": "USA",
+    "Description": "737s based in Des Moines, Iowa"
+  },
+  {
+    "Code": "JP",
+    "Airline": "Adria Airways",
+    "Country": "Slovenia",
+    "Description": ""
+  },
+  {
+    "Code": "RE",
+    "Airline": "Aer Arann Express",
+    "Country": "Ireland",
+    "Description": "Regional airline connects the Aran Islands with Dublin and the rest of the Republic"
+  },
+  {
+    "Code": "EI",
+    "Airline": "Aer Lingus",
+    "Country": "Ireland",
+    "Description": "Ireland's national airline"
+  },
+  {
+    "Code": "N6",
+    "Airline": "Aero Continente",
+    "Country": "Peru",
+    "Description": "Extensive domestic routes"
+  },
+  {
+    "Code": "----",
+    "Airline": "Aerocaribbean",
+    "Country": "Cuba",
+    "Description": "ATRs within Cuba, and to Haiti, Nicaragua and the Dominican Republic"
+  },
+  {
+    "Code": "QA",
+    "Airline": "Aerocaribe",
+    "Country": "Mexico",
+    "Description": "A regional arm of Mexicana"
+  },
+  {
+    "Code": "SU",
+    "Airline": "Aeroflot",
+    "Country": "Russia",
+    "Description": "Russia's international airline"
+  },
+  {
+    "Code": "AR",
+    "Airline": "Aerol¡neas Argentinas",
+    "Country": "Argentina",
+    "Description": ""
+  },
+  {
+    "Code": "SLI",
+    "Airline": "Aerolitoral",
+    "Country": "Mexico",
+    "Description": "A regional airline"
+  },
+  {
+    "Code": "BQ",
+    "Airline": "Aeromar",
+    "Country": "Mexico",
+    "Description": "Short hops using ATR-42s"
+  },
+  {
+    "Code": "AM",
+    "Airline": "Aeromexico",
+    "Country": "Mexico",
+    "Description": "One of Mexico's major internationals"
+  },
+  {
+    "Code": "WL",
+    "Airline": "Aeroperlas",
+    "Country": "Panama",
+    "Description": "Scheduled and charter flights on Shorts, Otters, Cessnas and Beech Kings"
+  },
+  {
+    "Code": "VV",
+    "Airline": "AeroSvit Airlines",
+    "Country": "Ukraine",
+    "Description": "Founded in 1994, flies B737s from Kiev to the rest of the country, plus Moscow and the Mediterranean"
+  },
+  {
+    "Code": "VV",
+    "Airline": "Aerosweet",
+    "Country": "Ukraine",
+    "Description": "One of three major carriers"
+  },
+  {
+    "Code": "8U",
+    "Airline": "Afriqiyah Airways",
+    "Country": "Libya",
+    "Description": "A320s based in Tripoli and going to Europe and N. Africa"
+  },
+  {
+    "Code": "ZI",
+    "Airline": "Aigle Azur",
+    "Country": "France",
+    "Description": "Holiday flights to Algeria on A321s and B737s"
+  },
+  {
+    "Code": "DP",
+    "Airline": "Air 2000",
+    "Country": "UK",
+    "Description": "Scheduled and chartered holiday flights"
+  },
+  {
+    "Code": "RK",
+    "Airline": "Air Afrique",
+    "Country": "",
+    "Description": "Connecting Europe and West Africa"
+  },
+  {
+    "Code": "AH",
+    "Airline": "Air Algerie",
+    "Country": "Algeria",
+    "Description": "Flights from Frankfurt and Berlin"
+  },
+  {
+    "Code": "LM",
+    "Airline": "Air ALM (Antillean Airlines)",
+    "Country": "",
+    "Description": "Venezuela to the Caribbean and southeast United States"
+  },
+  {
+    "Code": "4L",
+    "Airline": "Air Alma",
+    "Country": "Canada",
+    "Description": "A Canadian International partner"
+  },
+  {
+    "Code": "----",
+    "Airline": "Air Anatolia",
+    "Country": "Turkey",
+    "Description": "Ferries holiday-makers from Germany, Belgium and Holland"
+  },
+  {
+    "Code": "----",
+    "Airline": "Air Andaman",
+    "Country": "Thailand",
+    "Description": "Serves Phuket and other resort areas in the southern peninsula"
+  },
+  {
+    "Code": "3S",
+    "Airline": "Air Antilles",
+    "Country": "Guyana",
+    "Description": "Low-fare, no-frills subsidiary of Air Guyane"
+  },
+  {
+    "Code": "G9",
+    "Airline": "Air Arabia",
+    "Country": "UAE",
+    "Description": "Based in Sharjah, with flights throughout the Middle East on A320s"
+  },
+  {
+    "Code": "FQ",
+    "Airline": "Air Aruba",
+    "Country": "",
+    "Description": "To Aruba from Columbia, the US and Sao Paulo"
+  },
+  {
+    "Code": "----",
+    "Airline": "Air Astana",
+    "Country": "Kazakhstan",
+    "Description": "Domestic flights plus Europe and Asia"
+  },
+  {
+    "Code": "CC",
+    "Airline": "Air Atlanta Icelandic",
+    "Country": "",
+    "Description": "A privately-owned contract carrier"
+  },
+  {
+    "Code": "UU",
+    "Airline": "Air Austral",
+    "Country": "France",
+    "Description": "The India Ocean"
+  },
+  {
+    "Code": "BT",
+    "Airline": "Air Baltic",
+    "Country": "Latvia",
+    "Description": "Flag carrier flies to Eastern European capitals. An SAS partner"
+  },
+  {
+    "Code": "AB",
+    "Airline": "Air Berlin",
+    "Country": "Germany",
+    "Description": "Flights to Palma de Mallorca and other European destinations"
+  },
+  {
+    "Code": "JA",
+    "Airline": "Air Bosna",
+    "Country": "Bosnia and Herzegovina",
+    "Description": "One ATR-42, two YAK-42s and a Cessna 550 to Eastern Europe and Scandanavia"
+  },
+  {
+    "Code": "KF",
+    "Airline": "Air Botnia",
+    "Country": "Finland",
+    "Description": "now Blue1, a subsidiary of SAS. Third largest regional airline in Europe"
+  },
+  {
+    "Code": "TPC",
+    "Airline": "Air Caladonie",
+    "Country": "New Caledonia",
+    "Description": "Dornier, ATR 42 and AT4 aircraft make frequent domestic trips"
+  },
+  {
+    "Code": "AC",
+    "Airline": "Air Canada",
+    "Country": "Canada",
+    "Description": "The nation's largest airline."
+  },
+  {
+    "Code": "TX",
+    "Airline": "Air Carbes",
+    "Country": "French West Indies",
+    "Description": "Eight daily round trips between St. Maarten and St. Barth"
+  },
+  {
+    "Code": "----",
+    "Airline": "Air Cargo Masters",
+    "Country": "USA",
+    "Description": "Scheduled cargo and passenger flights on Beech, Fairchild Metro and MU-2 aircraft in the northern midwest"
+  },
+  {
+    "Code": "CA",
+    "Airline": "Air China",
+    "Country": "China",
+    "Description": "The largest operator within the People's Republic"
+  },
+  {
+    "Code": "YN",
+    "Airline": "Air Creebec",
+    "Country": "Canada",
+    "Description": "Airlne owned by the Cree Nation serves northern Quebec and Ontario"
+  },
+  {
+    "Code": "EN",
+    "Airline": "Air Dolomiti",
+    "Country": "Italy",
+    "Description": "Italy -Flights to Switzerland, Germany and Spain on ATRs and CRJs. A Lufthansa partner"
+  },
+  {
+    "Code": "RQ",
+    "Airline": "Air Engiadina",
+    "Country": "Switzerland",
+    "Description": "Regional airline using Dornier 328s"
+  },
+  {
+    "Code": "UX",
+    "Airline": "Air Europa",
+    "Country": "Spain",
+    "Description": "Domestic holiday destinations. An Alitalia partner"
+  },
+  {
+    "Code": "PC",
+    "Airline": "Air Fiji",
+    "Country": "Fiji",
+    "Description": "Domestic airline with 65 flights a day"
+  },
+  {
+    "Code": "AF",
+    "Airline": "Air France",
+    "Country": "France",
+    "Description": "English site for the USA"
+  },
+  {
+    "Code": "DA",
+    "Airline": "Air Georgia",
+    "Country": "Georgia",
+    "Description": "Flies between Tblisi and Frankfurt"
+  },
+  {
+    "Code": "GL",
+    "Airline": "Air Greenland",
+    "Country": "Greenland",
+    "Description": "Domestic flights, plus Denmark"
+  },
+  {
+    "Code": "NY",
+    "Airline": "Air Iceland",
+    "Country": "Iceland",
+    "Description": "Domestic flights plus Greenland"
+  },
+  {
+    "Code": "AI",
+    "Airline": "Air India",
+    "Country": "India",
+    "Description": "The national carrier"
+  },
+  {
+    "Code": "3H",
+    "Airline": "Air Inuit",
+    "Country": "Canada",
+    "Description": "Northern Quebec"
+  },
+  {
+    "Code": "JM",
+    "Airline": "Air Jamaica",
+    "Country": "Jamaica",
+    "Description": "Montego Bay to the US and the Caribbean"
+  },
+  {
+    "Code": "BC",
+    "Airline": "Air Jet",
+    "Country": "France",
+    "Description": "Commuter service between Paris and London"
+  },
+  {
+    "Code": "9Y",
+    "Airline": "Air Kazakstan",
+    "Country": "Kazakstan",
+    "Description": "National carrier flies to Europe and Asia"
+  },
+  {
+    "Code": "WJ",
+    "Airline": "Air Labrador",
+    "Country": "Canada",
+    "Description": "Canada -Labrador and Newfoundland"
+  },
+  {
+    "Code": "BT",
+    "Airline": "Air Liberte Guadeloupe",
+    "Country": "Guadeloupe",
+    "Description": "A British Airways subsidiary"
+  },
+  {
+    "Code": "TT",
+    "Airline": "Air Lithuania",
+    "Country": "Lithuania",
+    "Description": "Mostly business flights around Norther Europe"
+  },
+  {
+    "Code": "FU",
+    "Airline": "Air Littoral",
+    "Country": "France",
+    "Description": "CRJs and ATR 42-500s out of Montpellier and Nice"
+  },
+  {
+    "Code": "UX",
+    "Airline": "Air Luxor",
+    "Country": "Portugal",
+    "Description": "Business and holiday charters on L-1011, A320 and various private-sized aircraft"
+  },
+  {
+    "Code": "NX",
+    "Airline": "Air Macau",
+    "Country": "Macau",
+    "Description": "Five A321s and three A320s serve China and S.E. Asia"
+  },
+  {
+    "Code": "MD",
+    "Airline": "Air Madagascar",
+    "Country": "Madagascar",
+    "Description": "Eastern Africa's premiere air service"
+  },
+  {
+    "Code": "KM",
+    "Airline": "Air Malta",
+    "Country": "Malta",
+    "Description": "To Europe and the Middle East"
+  },
+  {
+    "Code": "GT",
+    "Airline": "Air Mandalay",
+    "Country": "Myanmar",
+    "Description": "Domestic airline"
+  },
+  {
+    "Code": "MK",
+    "Airline": "Air Mauritius",
+    "Country": "Mauritius",
+    "Description": "Flag carrier flies from the Indian Ocean island nation to Africa, Asia, Australia and Eurpoe"
+  },
+  {
+    "Code": "3R",
+    "Airline": "Air Moldova International",
+    "Country": "Moldova",
+    "Description": "Republic of Moldova to Europe and Russia. National carrier"
+  },
+  {
+    "Code": "SW",
+    "Airline": "Air Namibia",
+    "Country": "Namibia",
+    "Description": ""
+  },
+  {
+    "Code": "ON",
+    "Airline": "Air Nauru",
+    "Country": "Nauru",
+    "Description": "Nauru to Australia, Fiji, Kiribati, and the Solomon Islands"
+  },
+  {
+    "Code": "NZ",
+    "Airline": "Air New Zealand",
+    "Country": "New Zealand",
+    "Description": "Flag carrier"
+  },
+  {
+    "Code": "PX",
+    "Airline": "Air Niugini",
+    "Country": "Papua New Guinea",
+    "Description": "The national airline"
+  },
+  {
+    "Code": "----",
+    "Airline": "Air Nootka",
+    "Country": "Canada",
+    "Description": "Scheduled float plane service between Gold River and Kyuquot, British Columbia"
+  },
+  {
+    "Code": "4N",
+    "Airline": "Air North",
+    "Country": "Canada",
+    "Description": "B737 service Calgary/Edmonton to Whitehorse and Vancouver/Whitehorse and Hawker Siddeley 748 service between Whitehorse and Dawson City, Old Crow, Inuvik (NWT), plus Fairbanks & Juneau"
+  },
+  {
+    "Code": "QK",
+    "Airline": "Air Nova- Canada",
+    "Country": "Canada",
+    "Description": "Atlantic coast regional arm of Air Canada. Folded into parent company Air Canada's regional line: Jazz"
+  },
+  {
+    "Code": "AP",
+    "Airline": "Air One",
+    "Country": "Italy",
+    "Description": "Lufthansa's Italian partner"
+  },
+  {
+    "Code": "GX",
+    "Airline": "Air Ontario",
+    "Country": "Canada",
+    "Description": "Regional airline for the Great Lakes and north eastern US. Folded into parent company Air Canada's regional line: Jazz"
+  },
+  {
+    "Code": "FJ",
+    "Airline": "Air Pacific",
+    "Country": "Fiji",
+    "Description": "One B747, one B767 and three B737s with an average age of seven years"
+  },
+  {
+    "Code": "2P",
+    "Airline": "Air Philippines",
+    "Country": "Philippines",
+    "Description": "The country's second-largest airline"
+  },
+  {
+    "Code": "DS",
+    "Airline": "Air Senegal",
+    "Country": "Senegal",
+    "Description": "Member of the Groupe Royal Air Maroc. Three B737s and a Dash 8"
+  },
+  {
+    "Code": "HM",
+    "Airline": "Air Seychelles",
+    "Country": "Seychelles",
+    "Description": "From European and African capitals to the Indian Ocean paradise"
+  },
+  {
+    "Code": "GM",
+    "Airline": "Air Slovakia",
+    "Country": "Slovakia",
+    "Description": "B737s from Slovensko to the Mediterranean"
+  },
+  {
+    "Code": "----",
+    "Airline": "Air Sofia",
+    "Country": "Bulgaria",
+    "Description": "Cargo flights on AN-12 and AN-26. This firm also specializes in accommodations and golf facilities in Sofia"
+  },
+  {
+    "Code": "R6",
+    "Airline": "Air Srpska",
+    "Country": "Republic of Srpska",
+    "Description": "An ATR72-202, leased from JAT Yugoslavia, flies between Banja Luka and Zurich"
+  },
+  {
+    "Code": "YI",
+    "Airline": "Air Sunshine",
+    "Country": "USA",
+    "Description": "Florida, Bahamas, Puerto Rico, Virgin Islands, Dominican Republic and Turks & Caicos"
+  },
+  {
+    "Code": "TN",
+    "Airline": "Air Tahiti Nui",
+    "Country": "Tahiti",
+    "Description": ""
+  },
+  {
+    "Code": "TC",
+    "Airline": "Air Tanzania",
+    "Country": "Tanzania",
+    "Description": "Dubai, Johannesburg, Muscat, Nairobi, Mombasa and Zanzibar, plus many destinations within Tanzania"
+  },
+  {
+    "Code": "TS",
+    "Airline": "Air Transat",
+    "Country": "Canada",
+    "Description": "Discount charter and scheduled flights"
+  },
+  {
+    "Code": "6U",
+    "Airline": "Air Ukraine Cargo",
+    "Country": "Ukraine",
+    "Description": "Cargo division of AeroSvit flies a B767 four time a week between JFK and Kiev"
+  },
+  {
+    "Code": "6V",
+    "Airline": "Air Vegas",
+    "Country": "USA",
+    "Description": "USA Sightseeing tours of the Grand Canyon"
+  },
+  {
+    "Code": "ZW",
+    "Airline": "Air Wisconsin",
+    "Country": "USA",
+    "Description": "This United Express feeder operates BAe146s, Fokkers and Canadairs to Chicago and the west"
+  },
+  {
+    "Code": "UM",
+    "Airline": "Air Zimbabwe",
+    "Country": "Zimbabwe",
+    "Description": "Flights throughout southen Africa"
+  },
+  {
+    "Code": "AK",
+    "Airline": "AirAsia",
+    "Country": "Malaysia",
+    "Description": "737s out of Subang"
+  },
+  {
+    "Code": "B",
+    "Airline": "airBaltic",
+    "Country": "Latvia",
+    "Description": "The national airline and SAS partner"
+  },
+  {
+    "Code": "----",
+    "Airline": "AirCal",
+    "Country": "USA",
+    "Description": "Commemorates this now-defunct US regional carrier, bought out by American Airlines"
+  },
+  {
+    "Code": "SB",
+    "Airline": "Aircalin",
+    "Country": "New Caledonia",
+    "Description": "Domestic flights and some southwest Pacific destinations"
+  },
+  {
+    "Code": "GS",
+    "Airline": "AirFoyle",
+    "Country": "UK",
+    "Description": "Cargo and scheduled passenger service"
+  },
+  {
+    "Code": "QP",
+    "Airline": "Airkenya",
+    "Country": "Kenya",
+    "Description": "Domestic flights"
+  },
+  {
+    "Code": "RT",
+    "Airline": "Airlines of South Australia",
+    "Country": "Australia",
+    "Description": "Regional airline boasts \"The World's Longest Mail Run"
+  },
+  {
+    "Code": "TL",
+    "Airline": "Airnorth",
+    "Country": "Australia",
+    "Description": "Largest regional operator in Northern Australia"
+  },
+  {
+    "Code": "FL",
+    "Airline": "AirTran Airways",
+    "Country": "USA",
+    "Description": "Atlanta to the mid- and eastern US on B717s"
+  },
+  {
+    "Code": "----",
+    "Airline": "Airzena Georgian Airlines",
+    "Country": "Georgia",
+    "Description": "Two B737s connect cities in the former Soviet Union"
+  },
+  {
+    "Code": "LB",
+    "Airline": "Albanian Airlines",
+    "Country": "Albania",
+    "Description": "three aircraft serving destinations in Italy, Turkey, Germany, Switzerland and Kosovo together with a growing charter programme"
+  },
+  {
+    "Code": "AS",
+    "Airline": "Alaska Airlines/Horizon Air",
+    "Country": "USA",
+    "Description": "The Western United States and Canada"
+  },
+  {
+    "Code": "AZ",
+    "Airline": "Alitalia",
+    "Country": "Italy",
+    "Description": "Flag carrier flies to 57 countries"
+  },
+  {
+    "Code": "NH",
+    "Airline": "All Nippon Airways",
+    "Country": "Japan",
+    "Description": "Flights to both US seaboards"
+  },
+  {
+    "Code": "----",
+    "Airline": "Allegheny Airlines",
+    "Country": "USA",
+    "Description": "Serves 38 cities in the eastern USA as US Airways Express"
+  },
+  {
+    "Code": "G4",
+    "Airline": "Allegiant Air",
+    "Country": "USA",
+    "Description": "Domestic DC-9 service"
+  },
+  {
+    "Code": "AQ",
+    "Airline": "Aloha Airlines",
+    "Country": "USA",
+    "Description": "The Hawaiian Islands"
+  },
+  {
+    "Code": "E8",
+    "Airline": "AlpiEagles",
+    "Country": "Italy",
+    "Description": "Domestic and international"
+  },
+  {
+    "Code": "HP",
+    "Airline": "America West Airlines",
+    "Country": "USA",
+    "Description": "Hubbed in Arizona"
+  },
+  {
+    "Code": "AA",
+    "Airline": "American Airlines",
+    "Country": "USA",
+    "Description": "Major carrier"
+  },
+  {
+    "Code": "TZ",
+    "Airline": "American Trans Air",
+    "Country": "USA",
+    "Description": "Indianapolis charter and military contracts"
+  },
+  {
+    "Code": "8G",
+    "Airline": "Angel Air",
+    "Country": "Thailand",
+    "Description": "Unofficial site for this domestic airline"
+  },
+  {
+    "Code": "AN",
+    "Airline": "Ansett Australia",
+    "Country": "Died March 4, 2002",
+    "Description": ""
+  },
+  {
+    "Code": "5F",
+    "Airline": "Arctic Circle Air Service",
+    "Country": "USA",
+    "Description": "scheduled passenger and freight service from hubs in Aniak, Bethel, Dillingham and Fairbanks, Alaska"
+  },
+  {
+    "Code": "FG",
+    "Airline": "Ariana Afghan Airlines",
+    "Country": "Afghanistan",
+    "Description": "The Middle East plus Moscow, Frankfurt and Istanbul"
+  },
+  {
+    "Code": "IZ",
+    "Airline": "Arkia Israeli Airlines",
+    "Country": "Israel",
+    "Description": "Vacation charters within Israel"
+  },
+  {
+    "Code": "----",
+    "Airline": "Arrow Air",
+    "Country": "USA",
+    "Description": "Miami-based cargo routes in Central and South America"
+  },
+  {
+    "Code": "R7",
+    "Airline": "Aserca Airlines",
+    "Country": "Venezuela",
+    "Description": "Domestic and international flights"
+  },
+  {
+    "Code": "A6",
+    "Airline": "Asia Pacific Airlines",
+    "Country": "Guam",
+    "Description": "Cargo B727 in the Pacific southwest"
+  },
+  {
+    "Code": "----",
+    "Airline": "Asian Spirit",
+    "Country": "Philippines",
+    "Description": "Domestic routes using Dash-7s, LET-410s and YS-11As"
+  },
+  {
+    "Code": "OZ",
+    "Airline": "Asiana Airlines",
+    "Country": "S. Korea",
+    "Description": "From Kimpo International to Asian destinations"
+  },
+  {
+    "Code": "----",
+    "Airline": "Atlantic Airlines",
+    "Country": "USA",
+    "Description": "Florida, Georgia, Alabama, Louisianna and Texas"
+  },
+  {
+    "Code": "RC",
+    "Airline": "Atlantic Airways",
+    "Country": "Faroe Islands",
+    "Description": "Two BAe-200s and a Bell Helicopter from the islands to Iceland, the UK, Norway and Denmark"
+  },
+  {
+    "Code": "5Y",
+    "Airline": "Atlas Air",
+    "Country": "USA",
+    "Description": "Twenty-nine cargo B747s"
+  },
+  {
+    "Code": "----",
+    "Airline": "AtlasJet",
+    "Country": "Turkey",
+    "Description": "Domestic flights on A320s and B757s"
+  },
+  {
+    "Code": "NO",
+    "Airline": "Aus-Air",
+    "Country": "Australia",
+    "Description": "Regional flights to the southern islands"
+  },
+  {
+    "Code": "7V",
+    "Airline": "Austin Express",
+    "Country": "USA",
+    "Description": "Texas flights in a Fairchild Metroliner"
+  },
+  {
+    "Code": "AU",
+    "Airline": "Austral L¡neas Areas",
+    "Country": "Argentina",
+    "Description": "Twenty-four dometic destinations"
+  },
+  {
+    "Code": "OS",
+    "Airline": "Austrian Airlines",
+    "Country": "Australia",
+    "Description": "A Swissair partner"
+  },
+  {
+    "Code": "VE",
+    "Airline": "Avensa",
+    "Country": "Venezuela",
+    "Description": "Twelve domestic destinations and sixteen international"
+  },
+  {
+    "Code": "6A",
+    "Airline": "Aviacsa Airlines",
+    "Country": "Mexico",
+    "Description": "Extensive domestic routes, plus Houston and Las Vegas"
+  },
+  {
+    "Code": "----",
+    "Airline": "Avianto",
+    "Country": "Russia",
+    "Description": "Charter cargo and passenger flights on various Antonov aircraft. Scheduled flights soon"
+  },
+  {
+    "Code": "M4",
+    "Airline": "Avioimpex",
+    "Country": "Macedonia",
+    "Description": "From Skopje to Istanbul and major european capitals on DC-9s and MD-80s"
+  },
+  {
+    "Code": "UP",
+    "Airline": "Bahamasair",
+    "Country": "Bahamas",
+    "Description": "National airline serves Florida and the Islands"
+  },
+  {
+    "Code": "LZ",
+    "Airline": "Balkan Bulgarian Airlines",
+    "Country": "Bulgaria",
+    "Description": "Bulgarian flag carrier uses Tupolevs, Antonovs and 737s"
+  },
+  {
+    "Code": "BTL",
+    "Airline": "Baltia Air Lines",
+    "Country": "USA",
+    "Description": "JFK to St. Petersburg, Russia"
+  },
+  {
+    "Code": "PG",
+    "Airline": "Bangkok Airways",
+    "Country": "Thailand",
+    "Description": "Flights from Bangkok to Thai resorts plus Phnom-Penh"
+  },
+  {
+    "Code": "7P",
+    "Airline": "Batavia Air",
+    "Country": "Indonesia",
+    "Description": "Domestic flights on B737s and Dash 200s"
+  },
+  {
+    "Code": "8W",
+    "Airline": "BAX Global (Burlington Air Express)",
+    "Country": "USA",
+    "Description": "Cargo flights to Canada, the US and Mexico on DC-8s and B727s"
+  },
+  {
+    "Code": "JV",
+    "Airline": "Bearskin Airlines",
+    "Country": "Canada",
+    "Description": "Serving Northern Ontario"
+  },
+  {
+    "Code": "B2",
+    "Airline": "Belavia Belarusian Airlines",
+    "Country": "Belarus",
+    "Description": "Scheduled and charter flights to Europe and Asia"
+  },
+  {
+    "Code": "B3",
+    "Airline": "Bellview Airlines",
+    "Country": "Nigeria",
+    "Description": "Domestic routes on DC-9s plus Nairobi, Bombay and Amsterdam on an A300"
+  },
+  {
+    "Code": "8E",
+    "Airline": "Bering Air",
+    "Country": "USA",
+    "Description": "Alaskan air taxi"
+  },
+  {
+    "Code": "B4",
+    "Airline": "Bhoja Air",
+    "Country": "Pakistan",
+    "Description": "Passenger and cargo service"
+  },
+  {
+    "Code": "GQ",
+    "Airline": "BigSky Airlines",
+    "Country": "USA",
+    "Description": "Short hops west of the Mississippi"
+  },
+  {
+    "Code": "BG",
+    "Airline": "Biman Air",
+    "Country": "Bangladesh",
+    "Description": "Asian and European capitals on DC-10s, A310s, F28s and BAe-ATPs"
+  },
+  {
+    "Code": "KF",
+    "Airline": "Blue1",
+    "Country": "Finland",
+    "Description": "formerly Air Botnia, a subsidiary of SAS. Third largest regional airline in Europe"
+  },
+  {
+    "Code": "----",
+    "Airline": "Blue Airlines",
+    "Country": "Argentina",
+    "Description": "Executive flights on LearJets and Metro IIIs"
+  },
+  {
+    "Code": "BO",
+    "Airline": "Bouraq Airlines",
+    "Country": "Indonesia",
+    "Description": "Domestic airline centered in Jakarta"
+  },
+  {
+    "Code": "BU",
+    "Airline": "Braathens",
+    "Country": "Norway",
+    "Description": "The country's largest. Also serves Sweden"
+  },
+  {
+    "Code": "DB",
+    "Airline": "Brit Air",
+    "Country": "France",
+    "Description": "A regional arm of Air France"
+  },
+  {
+    "Code": "BY",
+    "Airline": "Britannia Airways",
+    "Country": "UK",
+    "Description": "Holiday destinations from Germany and the UK"
+  },
+  {
+    "Code": "BA",
+    "Airline": "British Airways",
+    "Country": "UK",
+    "Description": "The World's Favourite Airline"
+  },
+  {
+    "Code": "MN",
+    "Airline": "British Airways South Africa",
+    "Country": "South Africa",
+    "Description": "Operated by Comair"
+  },
+  {
+    "Code": "JY",
+    "Airline": "British European Airways",
+    "Country": "UK",
+    "Description": "Domestic flights, including Jersey and Guernsey"
+  },
+  {
+    "Code": "BD",
+    "Airline": "British Midland",
+    "Country": "UK",
+    "Description": "Heathrow's second-largest operator"
+  },
+  {
+    "Code": "BHA",
+    "Airline": "Buddha Air",
+    "Country": "Nepal",
+    "Description": "Domestic flights from Kathmandu using four Beech 1900D aircraft"
+  },
+  {
+    "Code": "J4",
+    "Airline": "Buffalo Airways",
+    "Country": "Canada",
+    "Description": "Charter work on a variety of aircraft. Based in Yellowknife, NWT"
+  },
+  {
+    "Code": "BW",
+    "Airline": "BWIA British West Indian",
+    "Country": "Trinidad & Tobago",
+    "Description": "L1011s, MD-83s and new 737s"
+  },
+  {
+    "Code": "VR",
+    "Airline": "Cabo Verde Airlines",
+    "Country": "Cape Verde",
+    "Description": "Cape Verde to Boston, Amsterdam, Paris and Munich"
+  },
+  {
+    "Code": "----",
+    "Airline": "California Coastal Airways",
+    "Country": "USA",
+    "Description": "Regional flights from Hawthorne to Las Vegas and southern California"
+  },
+  {
+    "Code": "MO",
+    "Airline": "Calm Air",
+    "Country": "Canada",
+    "Description": "Canadian International partner serves Ontario, Manitoba and Nunavut"
+  },
+  {
+    "Code": "UY",
+    "Airline": "Cameroon Airlines",
+    "Country": "Cameroon",
+    "Description": "Central Africa plus Jeddah, Paris, London and Brussels with B747 and B737"
+  },
+  {
+    "Code": "C6",
+    "Airline": "CanJet",
+    "Country": "Canada",
+    "Description": "737-200s on domestic flights in eastern Canada"
+  },
+  {
+    "Code": "9K",
+    "Airline": "Cape Air",
+    "Country": "USA",
+    "Description": "Cape Cod, Key West, the Caribbean and the Outer Banks"
+  },
+  {
+    "Code": "NN",
+    "Airline": "Cardinal Airlnes",
+    "Country": "USA",
+    "Description": "Melborne, FL to Baltimore/Washington on MD-80s"
+  },
+  {
+    "Code": "CV",
+    "Airline": "Cargolux",
+    "Country": "Luxembourg",
+    "Description": "Seven 747-400Fs fly cargo to every continent except Australia"
+  },
+  {
+    "Code": "XP",
+    "Airline": "Casino Express Airlines",
+    "Country": "USA",
+    "Description": "delivers vacationers from over 90 cities in the US to Elko, Nevada."
+  },
+  {
+    "Code": "CX",
+    "Airline": "Cathay Pacific",
+    "Country": "Hong Kong",
+    "Description": "747s, 777s, A330s and A340s"
+  },
+  {
+    "Code": "KX",
+    "Airline": "Cayman Airways",
+    "Country": "Cayman Islands",
+    "Description": "Cayman Islands to Florida, Texas and Jamaica"
+  },
+  {
+    "Code": "ED",
+    "Airline": "CCAir (US Airways Express)",
+    "Country": "USA",
+    "Description": "Charlotte, NC to 25 cities in 8 states"
+  },
+  {
+    "Code": "5J",
+    "Airline": "Cebu Pacific Air",
+    "Country": "Philippines",
+    "Description": "Twelve DC-9s make domestic flights out of Manila"
+  },
+  {
+    "Code": "9M",
+    "Airline": "Central Mountain Air",
+    "Country": "Canada",
+    "Description": "Air Canada's regional partner flies Beechcraft 1900Ds"
+  },
+  {
+    "Code": "OP",
+    "Airline": "Chalk's Ocean Airways",
+    "Country": "USA",
+    "Description": "Miami and Ft. Lauderdale to the Bahamas on Grumman G-73T Turbine Millard amphibious aircraft"
+  },
+  {
+    "Code": "----",
+    "Airline": "Champion Air",
+    "Country": "USA",
+    "Description": "Formerly MGM Grand Air, charter and holiday flights on eleven B727s"
+  },
+  {
+    "Code": "US",
+    "Airline": "Chautauqua Airlines (US Airways Express)",
+    "Country": "USA",
+    "Description": "Twelve SAAB-340s and 17 Jetstream-31s out of Indianapolis"
+  },
+  {
+    "Code": "----",
+    "Airline": "Chelan Airways",
+    "Country": "USA",
+    "Description": "Serves Lake Chelan and The North Cascades National Park in Washington state"
+  },
+  {
+    "Code": "C8",
+    "Airline": "Chicago Express Airlines",
+    "Country": "USA",
+    "Description": "An American Trans Air Connection"
+  },
+  {
+    "Code": "CI",
+    "Airline": "China Airlines",
+    "Country": "China",
+    "Description": "World destinations fanning out from Taipei"
+  },
+  {
+    "Code": "MU",
+    "Airline": "China Eastern Air",
+    "Country": "China",
+    "Description": "Based in Shanghai's Hongqiao International Airport"
+  },
+  {
+    "Code": "CJ",
+    "Airline": "China Northern Airlines",
+    "Country": "China",
+    "Description": "Extensive domestic system using A300, MD-90 and MD-82 aircraft"
+  },
+  {
+    "Code": "CZ",
+    "Airline": "China Southern Airlines",
+    "Country": "China",
+    "Description": "Boeings serving China and southeast Asia"
+  },
+  {
+    "Code": "SZ",
+    "Airline": "China Southwest Airlines",
+    "Country": "China",
+    "Description": "Extensive list of domestic destinations"
+  },
+  {
+    "Code": "GA",
+    "Airline": "Citilink",
+    "Country": "Indonesia",
+    "Description": "Garuda Indonesia's low-cost domestic service. B737s."
+  },
+  {
+    "Code": "H2",
+    "Airline": "City Bird",
+    "Country": "Belgium",
+    "Description": "Brussels to the US, Mexico and Europe"
+  },
+  {
+    "Code": "----",
+    "Airline": "City Connexion Airlines",
+    "Country": "Burundi",
+    "Description": "Launch customer for the Ayres 7000 aircraft"
+  },
+  {
+    "Code": "FD",
+    "Airline": "City Flyer (British Airways)",
+    "Country": "UK",
+    "Description": "British Airways flights out of Gatwick"
+  },
+  {
+    "Code": "WX",
+    "Airline": "CityJet",
+    "Country": "UK",
+    "Description": "London and Dublin to the Costa del Sol"
+  },
+  {
+    "Code": "6P",
+    "Airline": "Club Air",
+    "Country": "Italy",
+    "Description": "From Verona to Eastern Europe"
+  },
+  {
+    "Code": "BX",
+    "Airline": "Coast Air",
+    "Country": "Norway",
+    "Description": "Primarily operates flights between Haugesund and Bergen"
+  },
+  {
+    "Code": "CJ",
+    "Airline": "Colgan Air",
+    "Country": "USA",
+    "Description": "Continental Connctions on the eastern seaboard"
+  },
+  {
+    "Code": "OH",
+    "Airline": "Comair",
+    "Country": "USA",
+    "Description": "Delta Connections using more than 70 Canadair Regionals"
+  },
+  {
+    "Code": "----",
+    "Airline": "Commercial Flyer",
+    "Country": "USA",
+    "Description": "Piper Chieftans fly throughout Hawaii"
+  },
+  {
+    "Code": "DE",
+    "Airline": "Condor",
+    "Country": "Germany",
+    "Description": "North American site for this German holiday service"
+  },
+  {
+    "Code": "CO",
+    "Airline": "Continental Airlines",
+    "Country": "USA",
+    "Description": "Major carrier"
+  },
+  {
+    "Code": "3M",
+    "Airline": "Continental Connection (Gulfstream)",
+    "Country": "USA",
+    "Description": ""
+  },
+  {
+    "Code": "CM",
+    "Airline": "COPA",
+    "Country": "Panama",
+    "Description": "Fifteen 737s out of Panama City's Tocumen International Airport"
+  },
+  {
+    "Code": "3C",
+    "Airline": "Corporate Express",
+    "Country": "Canada",
+    "Description": "Scheduled business flights in Alberta and British Columbia"
+  },
+  {
+    "Code": "SS",
+    "Airline": "Corsair",
+    "Country": "France",
+    "Description": "Holiday destintions in the US, Africa and Thailan"
+  },
+  {
+    "Code": "7C",
+    "Airline": "Coyne Airways",
+    "Country": "Russia",
+    "Description": "Scheduled cargo and passenger flights in the Caspian Sea area"
+  },
+  {
+    "Code": "OU",
+    "Airline": "Croatia Airlines",
+    "Country": "Croatia",
+    "Description": "The national airline based in Zagreb"
+  },
+  {
+    "Code": "X5",
+    "Airline": "Cronus Airlines",
+    "Country": "Greece",
+    "Description": "To Greece from Germany, Rome and Paris"
+  },
+  {
+    "Code": "LX",
+    "Airline": "Crossair",
+    "Country": "Switzerland",
+    "Description": "Now Swiss International Airlines"
+  },
+  {
+    "Code": "----",
+    "Airline": "Crystal Airways",
+    "Country": "USA",
+    "Description": "B757s serving major cities in the eastern states"
+  },
+  {
+    "Code": "CU- Cubana",
+    "Airline": "Cuba",
+    "Country": "Cuba",
+    "Description": "Domestic flights, plus Europe, South America and Canada"
+  },
+  {
+    "Code": "CY",
+    "Airline": "Cyprus Airways",
+    "Country": "Cyprus",
+    "Description": ""
+  },
+  {
+    "Code": "YK",
+    "Airline": "Cyprus Turkish Airlines",
+    "Country": "North Cyprus",
+    "Description": "From Turkey and London to North Cyprus"
+  },
+  {
+    "Code": "OK",
+    "Airline": "Czech Airlines",
+    "Country": "Czech Republic",
+    "Description": "From Prague to orld destinations"
+  },
+  {
+    "Code": "D3",
+    "Airline": "Daallo Airlines",
+    "Country": "Djibouti/Somalia",
+    "Description": "AN-24s, IL-18s and TU-154s"
+  },
+  {
+    "Code": "DX",
+    "Airline": "DanAir",
+    "Country": "UK",
+    "Description": "An unofficial, commemorative site. Taken over by BA in '93"
+  },
+  {
+    "Code": "DWT",
+    "Airline": "Darwin Airline",
+    "Country": "Switzerland",
+    "Description": "SAAB 2000s between Lugano, Geneva, Barcelona and Olbia"
+  },
+  {
+    "Code": "DL",
+    "Airline": "Delta",
+    "Country": "USA",
+    "Description": "Major carrier"
+  },
+  {
+    "Code": "DL",
+    "Airline": "Delta Express",
+    "Country": "USA",
+    "Description": "The eastern states to Florida"
+  },
+  {
+    "Code": "3D",
+    "Airline": "Denim Airways",
+    "Country": "Germany",
+    "Description": "Dusseldorf, Augsburg and Berlin"
+  },
+  {
+    "Code": "KA",
+    "Airline": "Dragon Air",
+    "Country": "Hong Kong",
+    "Description": "Southeast Asia regional airline"
+  },
+  {
+    "Code": "KB",
+    "Airline": "Druk Air (Royal Bhutan Airlines)",
+    "Country": "Bhutan",
+    "Description": "India, Nepal, Bhutan, Thailand"
+  },
+  {
+    "Code": "HSA",
+    "Airline": "East African Safari Air",
+    "Country": "Kenya",
+    "Description": "France and Italy to Nairobi, plus charters"
+  },
+  {
+    "Code": "----",
+    "Airline": "East Line Airlines",
+    "Country": "Russia",
+    "Description": "Cargo and passenger flights on forty aircraft to points in Russia, Europe and the Mediterranean"
+  },
+  {
+    "Code": "XZ",
+    "Airline": "Eastair",
+    "Country": "Sweden",
+    "Description": "Lear Jets and Piper PA-31s based at Bromma"
+  },
+  {
+    "Code": "W9",
+    "Airline": "Eastwind Airlines",
+    "Country": "USA",
+    "Description": "Greensboro and Orlando to the northeast"
+  },
+  {
+    "Code": "U2",
+    "Airline": "easyJet",
+    "Country": "UK",
+    "Description": "Budget flights on 737s from London Luton"
+  },
+  {
+    "Code": "----",
+    "Airline": "EC Xpress",
+    "Country": "St. Lucia",
+    "Description": "Daily Dash-8 flights between the islands of Barbados, St.Lucia, Grenada, St.Vincent and the Grenadines and Dominica"
+  },
+  {
+    "Code": "MS",
+    "Airline": "EgyptAir",
+    "Country": "Egypt",
+    "Description": "95 destinations on a fleet with an average age of 6 years"
+  },
+  {
+    "Code": "LY",
+    "Airline": "El Al",
+    "Country": "Israel",
+    "Description": "Flag carrier flies from Tel Aviv to the world"
+  },
+  {
+    "Code": "G3",
+    "Airline": "Emerald Airways",
+    "Country": "UK",
+    "Description": "Cargo flights in BAe 748 and Shorts SD360 out of Liverpool's John Lennon"
+  },
+  {
+    "Code": "EK",
+    "Airline": "Emirates",
+    "Country": "UAE",
+    "Description": "Based in Dubai, the flag carrier uses airbuses and 777s"
+  },
+  {
+    "Code": "OV",
+    "Airline": "Estonian Air",
+    "Country": "Estonian",
+    "Description": "To major western European capitals"
+  },
+  {
+    "Code": "ET",
+    "Airline": "Ethiopian Airlines",
+    "Country": "Ethiopian",
+    "Description": "Domestic flights, plus Europe, Africa, Middle East and Asia"
+  },
+  {
+    "Code": "F4",
+    "Airline": "Eureca",
+    "Country": "Italy",
+    "Description": "Domestic flights in northern Italy on Fokkers and a Fairchild Metroliner"
+  },
+  {
+    "Code": "EP",
+    "Airline": "Europe Airpost",
+    "Country": "France",
+    "Description": "Formerly Aropostale"
+  },
+  {
+    "Code": "M3",
+    "Airline": "European Air Express",
+    "Country": "Germany",
+    "Description": "Business commuter flights out of Cologne/Bonn"
+  },
+  {
+    "Code": "MY",
+    "Airline": "Euroscot",
+    "Country": "Scotland",
+    "Description": "Domestic regional airline. Now operated by Gill Air"
+  },
+  {
+    "Code": "EW",
+    "Airline": "Eurowings",
+    "Country": "Germany",
+    "Description": "Regional flights throughout Europe"
+  },
+  {
+    "Code": "BR",
+    "Airline": "EVA Air",
+    "Country": "Taiwan",
+    "Description": "The airline arm of the Evergreen Group"
+  },
+  {
+    "Code": "FO",
+    "Airline": "Expedition Airways",
+    "Country": "Zimbabwe",
+    "Description": "Seven Zimbabwe destinations, plus South Africa and Mozambique using a Beechcraft 1900C"
+  },
+  {
+    "Code": "FB",
+    "Airline": "Fine Air",
+    "Country": "USA",
+    "Description": "Cargo flights to South and Central America and Caribbean"
+  },
+  {
+    "Code": "AY",
+    "Airline": "Finnair",
+    "Country": "Finland",
+    "Description": "Flying out of Helsinki for more than 75 years"
+  },
+  {
+    "Code": "AY",
+    "Airline": "Finnair",
+    "Country": "Finland",
+    "Description": "Official homepage for the Americas"
+  },
+  {
+    "Code": "7F",
+    "Airline": "First Air",
+    "Country": "Canada",
+    "Description": "Connecting Canada's north and far north"
+  },
+  {
+    "Code": "DP",
+    "Airline": "First Choice",
+    "Country": "UK",
+    "Description": "Holiday flights to Southern Europe, Northern Africa and the Caribbean"
+  },
+  {
+    "Code": "YC",
+    "Airline": "Flight West",
+    "Country": "Australia",
+    "Description": "Regional Airline based in Queensland"
+  },
+  {
+    "Code": "F3",
+    "Airline": "Flying Enterpise",
+    "Country": "Sweden",
+    "Description": "Stockholm, Skvde, Jnkping and Visby"
+  },
+  {
+    "Code": "----",
+    "Airline": "Four Star Air Cargo",
+    "Country": "USA",
+    "Description": "scheduled cargo airline directly linking the U.S. and British Virgin Islands, San Juan, and Miami"
+  },
+  {
+    "Code": "ZU",
+    "Airline": "Freedom Air International",
+    "Country": "New Zealand",
+    "Description": "Flights betweem New Zealand and Australia"
+  },
+  {
+    "Code": "FL",
+    "Airline": "Frontier Airlines",
+    "Country": "USA",
+    "Description": "Domestic flights centered in Denver"
+  },
+  {
+    "Code": "----",
+    "Airline": "Funjet Express",
+    "Country": "USA",
+    "Description": "Back and forth between Fresno and Las Vegas"
+  },
+  {
+    "Code": "GA",
+    "Airline": "Garuda Indonesia",
+    "Country": "Indonesia",
+    "Description": "Extensive domestic and international network"
+  },
+  {
+    "Code": "G7",
+    "Airline": "Gandalf Airlines",
+    "Country": "Italy",
+    "Description": "From Milan to major European capitals in Fairchild-Dornier 328s"
+  },
+  {
+    "Code": "BA",
+    "Airline": "GB Airways",
+    "Country": "Gibraltar",
+    "Description": "British Airways franchise flies B737s to Manchester and London Gatwick"
+  },
+  {
+    "Code": "GH",
+    "Airline": "Ghana Airways",
+    "Country": "Ghana",
+    "Description": "Flights to and from West Africa and Accra"
+  },
+  {
+    "Code": "Z5",
+    "Airline": "GMG Airlines",
+    "Country": "Bangladesh",
+    "Description": "Regional flights centered in Dhaka"
+  },
+  {
+    "Code": "OG",
+    "Airline": "Go",
+    "Country": "UK",
+    "Description": "Now easyjet."
+  },
+  {
+    "Code": "----",
+    "Airline": "Golden Eagle Airlines",
+    "Country": "Australia",
+    "Description": "Tourist flights and charters in the north west of Westrn Australia"
+  },
+  {
+    "Code": "G1",
+    "Airline": "Gorkha Airlines",
+    "Country": "Nepal",
+    "Description": "Eight domestic destinations"
+  },
+  {
+    "Code": "ZK",
+    "Airline": "Great Lakes Aviation",
+    "Country": "USA",
+    "Description": "United Express flights: Chicago Meigs and Springfield"
+  },
+  {
+    "Code": "----",
+    "Airline": "Grupo Taca",
+    "Country": "Taca",
+    "Description": "The alliance of Aviateca, Lacsa, Nica and Taca"
+  },
+  {
+    "Code": "GF",
+    "Airline": "Gulf Air",
+    "Country": "UAE",
+    "Description": "Has four owner states: Bahrain, Oman, Qatar and UAE"
+  },
+  {
+    "Code": "7G",
+    "Airline": "Gulfstream Airlines",
+    "Country": "USA",
+    "Description": "Continental Connection\" in the southeast states"
+  },
+  {
+    "Code": "GY",
+    "Airline": "Guyana Airways",
+    "Country": "Guyana",
+    "Description": ""
+  },
+  {
+    "Code": "HR",
+    "Airline": "Hahn Air",
+    "Country": "Germany",
+    "Description": "Charters on Fairchilds and SAABs"
+  },
+  {
+    "Code": "7A",
+    "Airline": "Haines Airways/Alaska Coastal Airways",
+    "Country": "USA",
+    "Description": "Short hops in southeast Alaska"
+  },
+  {
+    "Code": "HF",
+    "Airline": "Hapag-Lloyd",
+    "Country": "Germany",
+    "Description": "Extensive network of European holiday destinations using A310s and B737s"
+  },
+  {
+    "Code": "8H",
+    "Airline": "Harbour Air",
+    "Country": "Canada",
+    "Description": "Scheduled seaplane flights from Vancouver"
+  },
+  {
+    "Code": "HA",
+    "Airline": "Hawaiian Airlines",
+    "Country": "USA",
+    "Description": "All Hawaiian islands and west coast USA"
+  },
+  {
+    "Code": "2Y",
+    "Airline": "HelenAir Caribbean",
+    "Country": "St. Lucia",
+    "Description": "Frequent flights to several islands in the West Indies"
+  },
+  {
+    "Code": "JB",
+    "Airline": "Helijet Airways",
+    "Country": "Canada",
+    "Description": "Scheduled helicopters: Vancouver, Victoria and Seattle"
+  },
+  {
+    "Code": "DU",
+    "Airline": "Hemus Air",
+    "Country": "Bulgaria",
+    "Description": "From Sofia to Europe, Africa and the Near East"
+  },
+  {
+    "Code": "HQ",
+    "Airline": "HMY Airways",
+    "Country": "Canada",
+    "Description": "B757s between Vancouver and Toronto"
+  },
+  {
+    "Code": "AS",
+    "Airline": "Horizon Air/Alaska Airlines",
+    "Country": "USA",
+    "Description": "The northwest, out of SEA-TAC and Portland"
+  },
+  {
+    "Code": "IB",
+    "Airline": "Iberia",
+    "Country": "Spain",
+    "Description": "The flag carrier"
+  },
+  {
+    "Code": "FI",
+    "Airline": "Icelandair",
+    "Country": "Iceland",
+    "Description": "Europe and North America from Keflavik"
+  },
+  {
+    "Code": "VQ",
+    "Airline": "Impulse Airlines",
+    "Country": "Australia",
+    "Description": "Now Jetstar, Qantas' new low-cost carrier"
+  },
+  {
+    "Code": "----",
+    "Airline": "Independence Air",
+    "Country": "USA",
+    "Description": "A319s connect Washington Dulles with the Eastern seaboard and major West Coast cities"
+  },
+  {
+    "Code": "IC",
+    "Airline": "Indian Airlines",
+    "Country": "India",
+    "Description": "Wholly owned by the Government of India"
+  },
+  {
+    "Code": "----",
+    "Airline": "Inter",
+    "Country": "Guatemala",
+    "Description": "One of Grupo Taca's regional airlines. Uses Cessna Grand Caravans"
+  },
+  {
+    "Code": "----",
+    "Airline": "InterIsland Airways",
+    "Country": "Turks and Caicos",
+    "Description": "Connecting the islands"
+  },
+  {
+    "Code": "3L",
+    "Airline": "InterSky",
+    "Country": "Germany",
+    "Description": "Dash 8 flights connect major German cities, plus Bern and Vienna"
+  },
+  {
+    "Code": "IR",
+    "Airline": "Iran Air",
+    "Country": "Iran",
+    "Description": "Tehran to Europe and Asia, plus domestic flights"
+  },
+  {
+    "Code": "G5",
+    "Airline": "Island Air",
+    "Country": "Cayman Islands",
+    "Description": "Scheduled service to Cayman Brac and Little Cayman, plus charters and sightseeing tours"
+  },
+  {
+    "Code": "AM",
+    "Airline": "Island Airlines",
+    "Country": "USA",
+    "Description": "Scheduled service between Nantucket and Hyannis"
+  },
+  {
+    "Code": "HH",
+    "Airline": "Islandsflug",
+    "Country": "Iceland",
+    "Description": "Domestic flights on B737s, ATR-42s, Dornier 228s and a Piper Chieftan"
+  },
+  {
+    "Code": "WC",
+    "Airline": "Isle¤a",
+    "Country": "Honduras",
+    "Description": "One of Grupo Taca's regional airlines. Service to the Bay Islands, Copan, and the country's interior"
+  },
+  {
+    "Code": "----",
+    "Airline": "Israir",
+    "Country": "Israel",
+    "Description": "Website under construction"
+  },
+  {
+    "Code": "JD",
+    "Airline": "Japan Air System",
+    "Country": "Japan",
+    "Description": "Ninety-nine domestic routes"
+  },
+  {
+    "Code": "JL",
+    "Airline": "Japan Airlines",
+    "Country": "Japan",
+    "Description": "Tokyo and Osaka to all major world destinations"
+  },
+  {
+    "Code": "9W",
+    "Airline": "Jet Airways",
+    "Country": "India",
+    "Description": "Thirty domestic destinations using 737s"
+  },
+  {
+    "Code": "VQ",
+    "Airline": "Jetstar",
+    "Country": "Australia",
+    "Description": "Qantas' low-cost carrier. Formerly Impulse Airlines"
+  },
+  {
+    "Code": "B6",
+    "Airline": "JetBlue",
+    "Country": "USA",
+    "Description": "Low-fare flights on A320s"
+  },
+  {
+    "Code": "----",
+    "Airline": "Jordan Aviation",
+    "Country": "Jordan",
+    "Description": "Charters for hire"
+  },
+  {
+    "Code": "----",
+    "Airline": "Keenair",
+    "Country": "UK",
+    "Description": "Scheduled flights between Liverpool, UK and Cork, Ireland on two Embraer Bandeirantes"
+  },
+  {
+    "Code": "KD",
+    "Airline": "Kendell Airlines",
+    "Country": "Australia",
+    "Description": ""
+  },
+  {
+    "Code": "5K",
+    "Airline": "Kenmore Air",
+    "Country": "USA",
+    "Description": "Scheduled seaplane flights: Seattle, Victoria, San Juan Isl."
+  },
+  {
+    "Code": "KQ",
+    "Airline": "Kenya Airways",
+    "Country": "Kenya",
+    "Description": "Nairobi to the rest of Africa and select world destinations"
+  },
+  {
+    "Code": "BZ",
+    "Airline": "Keystone Air Service",
+    "Country": "Canada",
+    "Description": "Pipers and Beechcraft provide scheduled service connecting Swan River, Dauphin and Winnipeg, Manitoba"
+  },
+  {
+    "Code": "2K",
+    "Airline": "Kitty Hawk",
+    "Country": "USA",
+    "Description": "Scheduled and charter cargo flights, mostly on B727s"
+  },
+  {
+    "Code": "KL",
+    "Airline": "KLM Royal Dutch Airlines",
+    "Country": "Netherlands",
+    "Description": "Schiphol to major world destinations"
+  },
+  {
+    "Code": "UK",
+    "Airline": "KLM uk",
+    "Country": "UK",
+    "Description": "Seventeen UK airports to Schiphol"
+  },
+  {
+    "Code": "KE",
+    "Airline": "Korean Air",
+    "Country": "South Korea",
+    "Description": "Southeast Asia plus select European and North Amercan cities"
+  },
+  {
+    "Code": "7B",
+    "Airline": "KrasAir-Krasnoyarsk Airlines",
+    "Country": "Russia",
+    "Description": "Extensive domestic and European network on Tuploevs and Illushyns"
+  },
+  {
+    "Code": "KU",
+    "Airline": "Kuwait Airways",
+    "Country": "Kuwait",
+    "Description": "Forty destinations"
+  },
+  {
+    "Code": "JF",
+    "Airline": "L.A.B. Flying Service",
+    "Country": "USA",
+    "Description": "Daily scheduled flights connecting Haines, Alaska with Juneau, Skagway and other S.E. Alaska communities"
+  },
+  {
+    "Code": "TM",
+    "Airline": "LAM Linhas Areas de Mocambique",
+    "Country": "Mozambique",
+    "Description": ""
+  },
+  {
+    "Code": "----",
+    "Airline": "La Coste¤a",
+    "Country": "Nicaragua",
+    "Description": "One of Grupo Taca's regional airlines"
+  },
+  {
+    "Code": "LA",
+    "Airline": "LanChile Airlines",
+    "Country": "Chile",
+    "Description": "South, Central and North America, some Australia, some Europe"
+  },
+  {
+    "Code": "LP",
+    "Airline": "LanPreu",
+    "Country": "Peru",
+    "Description": "Peruvian arm of an extensive worldwide airline"
+  },
+  {
+    "Code": "NG",
+    "Airline": "Lauda Air",
+    "Country": "Austria",
+    "Description": "The famous F1 driver spawned an airline"
+  },
+  {
+    "Code": "----",
+    "Airline": "Legend Airlines",
+    "Country": "USA",
+    "Description": "DC-9s between Dallas, Washington, Las Vegas, Los Angeles and New York (LGA)"
+  },
+  {
+    "Code": "LI",
+    "Airline": "LIAT",
+    "Country": "Antigua",
+    "Description": "Two hundred flights a day in the eastern Caribbean"
+  },
+  {
+    "Code": "TE",
+    "Airline": "Lithuanian Airlines",
+    "Country": "Lithuania",
+    "Description": "From Vilnius to northern Eurpoean capitals on B737s and SAABs"
+  },
+  {
+    "Code": "LB",
+    "Airline": "Lloyd Aero Boliviano",
+    "Country": "Bolivia",
+    "Description": ""
+  },
+  {
+    "Code": "LC",
+    "Airline": "Loganair",
+    "Country": "UK",
+    "Description": "Serving Scotland for British Airways"
+  },
+  {
+    "Code": "LO",
+    "Airline": "LOT Polish Airlines",
+    "Country": "Poland",
+    "Description": "Dates back to the 1920s"
+  },
+  {
+    "Code": "----",
+    "Airline": "Love Air",
+    "Country": "Canada",
+    "Description": "Join the \"Mile High Club\" on a charter flight exclusively for that purpose"
+  },
+  {
+    "Code": "LT",
+    "Airline": "LTU International Airways",
+    "Country": "Germany",
+    "Description": "Holiday destinations in Florida, California and the Caribbean"
+  },
+  {
+    "Code": "LH",
+    "Airline": "Lufthansa",
+    "Country": "Germany",
+    "Description": "Germany's biggest and most famous"
+  },
+  {
+    "Code": "LH",
+    "Airline": "Lufthansa Cargo",
+    "Country": "Germany",
+    "Description": "The flag carrier's freight division"
+  },
+  {
+    "Code": "CL",
+    "Airline": "Lufthansa CityLine",
+    "Country": "Germany",
+    "Description": "Five hundred flights a day to 61 European cities. CRJs and Avros"
+  },
+  {
+    "Code": "LG",
+    "Airline": "Luxair",
+    "Country": "Luxembourg",
+    "Description": "737s, Embraers and Fokkers to the rest of Europe, North Africa and New York"
+  },
+  {
+    "Code": "LN",
+    "Airline": "Libyan Arab Airlines",
+    "Country": "Libya",
+    "Description": ""
+  },
+  {
+    "Code": "L2",
+    "Airline": "Lynden Air Cargo",
+    "Country": "USA",
+    "Description": "Hercs hauling oversize loads in Alaska"
+  },
+  {
+    "Code": "----",
+    "Airline": "Lynx Air International",
+    "Country": "USA",
+    "Description": "Florida to the Bahamas, Haiti, the Dominican and the Turks and Caicos using a Fairchild Metro III"
+  },
+  {
+    "Code": "CC",
+    "Airline": "Macair Airlines",
+    "Country": "Australia",
+    "Description": "Saabs, Fairchilds and Otters in Queensland"
+  },
+  {
+    "Code": "DM",
+    "Airline": "Maersk Air",
+    "Country": "Denmark",
+    "Description": "From Copenhagen and Brillund to major European cities"
+  },
+  {
+    "Code": "W5",
+    "Airline": "Mahan Air",
+    "Country": "Iran",
+    "Description": "Airbuses and Tu-154s to domestic points plus select international cities"
+  },
+  {
+    "Code": "----",
+    "Airline": "Malaysia Air",
+    "Country": "Malaysia",
+    "Description": "New York and Los Angeles to Malaysia and southeast Asia"
+  },
+  {
+    "Code": "MH",
+    "Airline": "Malaysia Airlines",
+    "Country": "Malaysia",
+    "Description": "110 destinations on 6 continents"
+  },
+  {
+    "Code": "MA",
+    "Airline": "Malev Hungarian",
+    "Country": "Hungary",
+    "Description": "Based at Budapest's Ferihegy International Airport"
+  },
+  {
+    "Code": "6E",
+    "Airline": "Malmo Aviation",
+    "Country": "Sweden",
+    "Description": "Malmo and Umea to Stockholm Bromma on Avros and BAes"
+  },
+  {
+    "Code": "RI",
+    "Airline": "Mandala Airlines",
+    "Country": "Indonesia",
+    "Description": "Domestic flights"
+  },
+  {
+    "Code": "AE",
+    "Airline": "Mandarin Airlines",
+    "Country": "Taiwan",
+    "Description": "Flights to Sydney, Brisbane, Auckland and Vancouver. Non-English website"
+  },
+  {
+    "Code": "JE",
+    "Airline": "Manx Airlines",
+    "Country": "UK",
+    "Description": "From the Isle of Man to Ireland, Scotland and England"
+  },
+  {
+    "Code": "MP",
+    "Airline": "Martinair",
+    "Country": "Netherlands",
+    "Description": ""
+  },
+  {
+    "Code": "M7",
+    "Airline": "MAT Macedonian Airlines",
+    "Country": "Macedonia",
+    "Description": ""
+  },
+  {
+    "Code": "8M",
+    "Airline": "MaxAir",
+    "Country": "Sweden",
+    "Description": "Flights connecting Malm, Sweden with Hamburg, Germany and Oslo, Norway"
+  },
+  {
+    "Code": "MW",
+    "Airline": "Maya Airways",
+    "Country": "Belize",
+    "Description": "Nine domestic destinations"
+  },
+  {
+    "Code": "MW",
+    "Airline": "Maya Island Air",
+    "Country": "Belize",
+    "Description": "From Ambergris Caye to the rest of Belize, plus Mexico and Guatemala"
+  },
+  {
+    "Code": "CG",
+    "Airline": "MBA Milne Bay Airlines",
+    "Country": "Papua New Guinea",
+    "Description": "More than 400 scheduled and charter domestic flights per week"
+  },
+  {
+    "Code": "ME",
+    "Airline": "MEA Middle East Airlines",
+    "Country": "Lebanon",
+    "Description": "Airbuses to Europe and the Middle East"
+  },
+  {
+    "Code": "IG",
+    "Airline": "Meridiana",
+    "Country": "Italy",
+    "Description": "Low-cost carrier to domestic points plus Madrid, Barcelona and Amsterdam"
+  },
+  {
+    "Code": "YV",
+    "Airline": "Mesa Air Group",
+    "Country": "USA",
+    "Description": "America West Express, US Airways Express, and Mesa Airlines"
+  },
+  {
+    "Code": "XJ",
+    "Airline": "Mesaba Airlines",
+    "Country": "USA",
+    "Description": "A Northwest Airlines partner out of Minneapolis and Detroit"
+  },
+  {
+    "Code": "US",
+    "Airline": "MetroJet",
+    "Country": "USA",
+    "Description": "US Airways' partner east of the Mississippi"
+  },
+  {
+    "Code": "MX",
+    "Airline": "Mexicana",
+    "Country": "Mexico",
+    "Description": "Mexico City to major North American and South American cities"
+  },
+  {
+    "Code": "OM",
+    "Airline": "MIAT Mongolian Airlines",
+    "Country": "Mongolia",
+    "Description": "Domestic service plus Moscow, Berlin and southeast Asia, using ANs, an A310 and three 727s"
+  },
+  {
+    "Code": "ML",
+    "Airline": "Midway Airlines",
+    "Country": "USA",
+    "Description": "Raleigh-Durham to the rest of the eastern seaboard on B737s, CRJs and Fokker F100s"
+  },
+  {
+    "Code": "YX",
+    "Airline": "Midwest Express Airlines",
+    "Country": "USA",
+    "Description": "Domestic flights on DC-9s, MD-80s and Beechcraft"
+  },
+  {
+    "Code": "CD",
+    "Airline": "Mindanao Express Airlines",
+    "Country": "Philippines",
+    "Description": "Connects Mindanao with the rest of the Philippines"
+  },
+  {
+    "Code": "Q2",
+    "Airline": "Minerva Airlines",
+    "Country": "Italy",
+    "Description": "Partner to Alitalia"
+  },
+  {
+    "Code": "2M",
+    "Airline": "Moldavian Airlines",
+    "Country": "Moldova",
+    "Description": "Chisinau to Budapest on SAAB 2000s"
+  },
+  {
+    "Code": "ZB",
+    "Airline": "Monarch Airlines",
+    "Country": "UK",
+    "Description": "Scheduled and charter flights to European holiday spots"
+  },
+  {
+    "Code": "----",
+    "Airline": "Montair Aviation",
+    "Country": "Canada",
+    "Description": "British Columbia's Victoria, Boundary Bay and Pitt Meadows"
+  },
+  {
+    "Code": "----",
+    "Airline": "Mountain Air",
+    "Country": "New Zealand",
+    "Description": "Scenic and scheduled flights based at Taumarunui Airport"
+  },
+  {
+    "Code": "----",
+    "Airline": "Mountain Air Express",
+    "Country": "USA",
+    "Description": "Scheduled flights to California resorts"
+  },
+  {
+    "Code": "ZR",
+    "Airline": "Muk Air",
+    "Country": "Denmark",
+    "Description": "Short flights from Copenhagen to other Scandanavian cities"
+  },
+  {
+    "Code": "Q4",
+    "Airline": "Mustique Airways",
+    "Country": "St. Vincent and the Grenadines",
+    "Description": "Island hopping in the Eastern Caribbean"
+  },
+  {
+    "Code": "UB",
+    "Airline": "Myanmar Airways International",
+    "Country": "Myanmar",
+    "Description": "Yangon, Bangkok, Hong Kong, Singapore, Kuala Lumpur"
+  },
+  {
+    "Code": "----",
+    "Airline": "Myrtle Beach Jet Express",
+    "Country": "USA",
+    "Description": "Newark and Tampa/St. Petersburg to Myrtle Beach, SC"
+  },
+  {
+    "Code": "DV",
+    "Airline": "Nantucket Airlines",
+    "Country": "USA",
+    "Description": "Back and forth between Hyannis and Nantucket every hour"
+  },
+  {
+    "Code": "NB",
+    "Airline": "National Airlines",
+    "Country": "USA",
+    "Description": "Las Vegas to Los Angeles, San Francisco, Chicago-Midway and JFK"
+  },
+  {
+    "Code": "CE",
+    "Airline": "Nationwide Airlines",
+    "Country": "South Africa",
+    "Description": "B727s, B737s and B767s on domestic flights plus London Gatwick"
+  },
+  {
+    "Code": "----",
+    "Airline": "Nature Air",
+    "Country": "Costa Rica",
+    "Description": "Domestic, plus Nicaragua and Panama"
+  },
+  {
+    "Code": "3Z",
+    "Airline": "Necon Air",
+    "Country": "Nepal",
+    "Description": "Domestic flights plus northern India on Avro HS-748s, an ATR-42 and a Cessna Caravan"
+  },
+  {
+    "Code": "----",
+    "Airline": "Nevis Express",
+    "Country": "St. Kitts and Nevis",
+    "Description": "The most daily flights between St. Kitts and Nevis"
+  },
+  {
+    "Code": "EJ",
+    "Airline": "New England Airlines",
+    "Country": "USA",
+    "Description": "From Westerly, RI to Block Island twelve times a day and more"
+  },
+  {
+    "Code": "WT",
+    "Airline": "Nigeria Airlines",
+    "Country": "Nigeria",
+    "Description": "Lagos to Heathrow and JFK"
+  },
+  {
+    "Code": "DD",
+    "Airline": "Nok Air",
+    "Country": "Thailand",
+    "Description": "Low-cost airline with service from Bangkok to Chiang Mai, Hat Yai and Udon Thani"
+  },
+  {
+    "Code": "6N",
+    "Airline": "Nordic Leisure",
+    "Country": "Sweden",
+    "Description": "Charters on MD-80s"
+  },
+  {
+    "Code": "XG",
+    "Airline": "North American Airlines",
+    "Country": "USA",
+    "Description": "757s and MD-83s provide feeder flights to JFK for El Al"
+  },
+  {
+    "Code": "----",
+    "Airline": "North Star Airlines",
+    "Country": "USA",
+    "Description": "DC-8-73F cargo flights from JFK to Haiti"
+  },
+  {
+    "Code": "VL",
+    "Airline": "North Vancouver Air",
+    "Country": "Canada",
+    "Description": "From Vancouver to Seattle and southern British Columbia on Beech, Pipers, J31s and a Cessna 206"
+  },
+  {
+    "Code": "----",
+    "Airline": "Northern Air Cargo",
+    "Country": "USA",
+    "Description": "Anchorage, Alaska"
+  },
+  {
+    "Code": "NW",
+    "Airline": "Northwest Airlines",
+    "Country": "USA",
+    "Description": "Major carrier soon to be flying out of its Detroit Midfield Terminal"
+  },
+  {
+    "Code": "----",
+    "Airline": "Northwest Seaplanes",
+    "Country": "USA",
+    "Description": "Daily service from Renton to the San Juan Islands"
+  },
+  {
+    "Code": "OL",
+    "Airline": "OLT",
+    "Country": "Germany",
+    "Description": "Commuter flights from Bremen to London, Berlin, Naples, Toulouse"
+  },
+  {
+    "Code": "OA",
+    "Airline": "Olympic Airways",
+    "Country": "Greece",
+    "Description": "Flag carrier"
+  },
+  {
+    "Code": "WY",
+    "Airline": "Oman Air",
+    "Country": "Oman",
+    "Description": "International flights from Muscat on B737s and ATRs"
+  },
+  {
+    "Code": "ORK",
+    "Airline": "ORCA AirLines",
+    "Country": "Egypt",
+    "Description": "From Cairo to the Middle East"
+  },
+  {
+    "Code": "OX",
+    "Airline": "Orient Thai Airlines",
+    "Country": "Thailand",
+    "Description": "Southeast Asia on B747s and L1011s"
+  },
+  {
+    "Code": "BL",
+    "Airline": "Pacific Airlines",
+    "Country": "Vietnam",
+    "Description": "Domestic flights, plus Taipei and Hong Kong"
+  },
+  {
+    "Code": "8P",
+    "Airline": "Pacific Coastal Airlines",
+    "Country": "Canada",
+    "Description": "A Canadian partner serving the southern coast of British Columbia"
+  },
+  {
+    "Code": "NW",
+    "Airline": "Pacific Island Aviation",
+    "Country": "Northern Mariana Islands",
+    "Description": "Operates flights for Northwest Airlines, connecting the islands of Guam, Rota, Tinian and Saipan"
+  },
+  {
+    "Code": "LW",
+    "Airline": "Pacific Wings Hawaii",
+    "Country": "USA",
+    "Description": "Island hopping in hawaii with Cessna 402Cs"
+  },
+  {
+    "Code": "PK",
+    "Airline": "Pakistan International Airlines",
+    "Country": "Pakistan",
+    "Description": "Flag carrier"
+  },
+  {
+    "Code": "PF",
+    "Airline": "Palestinian Airlines",
+    "Country": "Palestinian",
+    "Description": "One Fokker 50 and one 727 from Gaza to Amman, Cairo, Dubai and Jeddah"
+  },
+  {
+    "Code": "PA",
+    "Airline": "Pan Am",
+    "Country": "USA",
+    "Description": "The latest incarnation"
+  },
+  {
+    "Code": "PA -Pan American World Airways",
+    "Airline": "USA",
+    "Country": "USA",
+    "Description": "This site commemorates this now-defunct major carrier"
+  },
+  {
+    "Code": "P8",
+    "Airline": "Pantanal Linhas Areas",
+    "Country": "Brazil",
+    "Description": "Domestic flights from Sao Paulo on an ATR-42"
+  },
+  {
+    "Code": "FP",
+    "Airline": "Par Avion Airlines",
+    "Country": "Australia",
+    "Description": "Operates in Tasmania"
+  },
+  {
+    "Code": "----",
+    "Airline": "Peace Air",
+    "Country": "Canada",
+    "Description": "Regular schedule serving Edmonton City Center, Calgary, Grande Prairie, Peace River, Fort St. John, Fort Nelson, Prince George and Jasper/Hinton"
+  },
+  {
+    "Code": "KS",
+    "Airline": "Penair (Peninsula Airways)",
+    "Country": "USA",
+    "Description": "Thirty-five small aircraft to 73 communites. An Alaska Airlines partner"
+  },
+  {
+    "Code": "UW",
+    "Airline": "Perimeter",
+    "Country": "Canada",
+    "Description": "Metros provide scheduled service in Manitoba and Northwestern Ontario"
+  },
+  {
+    "Code": "NI",
+    "Airline": "PGA Portugalia Airlines",
+    "Country": "Portugal",
+    "Description": "Fokker 100s and Embraer 145s to Europe and the Grand Canary Islands"
+  },
+  {
+    "Code": "PR",
+    "Airline": "Philippine Airlines",
+    "Country": "Philippines",
+    "Description": ""
+  },
+  {
+    "Code": "PI",
+    "Airline": "Piedmont Airlines",
+    "Country": "USA",
+    "Description": "US Airways Express"
+  },
+  {
+    "Code": "----",
+    "Airline": "Platinum Jet Air",
+    "Country": "Canada",
+    "Description": "First-class Fokker 100s between Calgary and Toronto"
+  },
+  {
+    "Code": "SJ",
+    "Airline": "Polar Air Cargo",
+    "Country": "USA",
+    "Description": "Scheduled worldwide freight service on B747s"
+  },
+  {
+    "Code": "----",
+    "Airline": "Polonia Airlines",
+    "Country": "Poland",
+    "Description": "ANs and ILs configured for cargo"
+  },
+  {
+    "Code": "PH",
+    "Airline": "Polynesian Airlines",
+    "Country": "Samoa",
+    "Description": "National carrier connects the south Pacific to Australia and the US"
+  },
+  {
+    "Code": "NI",
+    "Airline": "Portug lia Airlines",
+    "Country": "Portugal",
+    "Description": "From Lisbon to Spain, Germany, France, Italy, Belgium, and the UK with Fokkers 100s and Embraer 145s"
+  },
+  {
+    "Code": "PW",
+    "Airline": "Precision Air",
+    "Country": "Tanzania",
+    "Description": "Scheduled, charter and scenic flights out of Arusha, Dar es Salaam and Bukoba"
+  },
+  {
+    "Code": "----",
+    "Airline": "Primaris Airlines",
+    "Country": "USA",
+    "Description": "First-class B757s connect major US cities with European capitals"
+  },
+  {
+    "Code": "SZ",
+    "Airline": "Pro Air",
+    "Country": "USA",
+    "Description": "Four 737s flying from Detroit to eight destinations"
+  },
+  {
+    "Code": "AG",
+    "Airline": "Provincial Airlines",
+    "Country": "Canada",
+    "Description": "Newfoundland and eastern Canada on Pipers and Fairchilds"
+  },
+  {
+    "Code": "QF",
+    "Airline": "Qantas Airways",
+    "Country": "Australia",
+    "Description": "The Australian leader, and tenth largest in the world"
+  },
+  {
+    "Code": "ZQ",
+    "Airline": "Qantas New Zealand",
+    "Country": "New Zealand",
+    "Description": "Domestic airline. Previously Ansett New Zealand"
+  },
+  {
+    "Code": "QR",
+    "Airline": "Qatar Airways",
+    "Country": "Qatar",
+    "Description": "From Doha to the rest of the Middle East"
+  },
+  {
+    "Code": "QAH",
+    "Airline": "Quick Airways",
+    "Country": "Netherlands",
+    "Description": "Rotterdam and Groningen"
+  },
+  {
+    "Code": "VM",
+    "Airline": "Regional Airlines",
+    "Country": "France",
+    "Description": "Created in 1992 by the merging ofAir Vende with Airlec"
+  },
+  {
+    "Code": "QQ",
+    "Airline": "Reno Air",
+    "Country": "USA",
+    "Description": "Commemorative website. Purchased by American Airlines in 1999"
+  },
+  {
+    "Code": "GU",
+    "Airline": "Riga Airlines",
+    "Country": "Latvia",
+    "Description": "London, Moscow and Paris to Riga"
+  },
+  {
+    "Code": "SL",
+    "Airline": "Rio-Sul",
+    "Country": "Brazil",
+    "Description": "Domestic carrier"
+  },
+  {
+    "Code": "Q3",
+    "Airline": "Roan Air",
+    "Country": "Zambia",
+    "Description": "Domestic flights, with plans for London and Johannesburg"
+  },
+  {
+    "Code": "DW",
+    "Airline": "Rottnest Air Taxi",
+    "Country": "Australia",
+    "Description": "Connects Rottnest Island with Freemantle"
+  },
+  {
+    "Code": "AT",
+    "Airline": "Royal Air Maroc",
+    "Country": "Morocco",
+    "Description": "747s from Montreal and JFK to Casablanca"
+  },
+  {
+    "Code": "BI",
+    "Airline": "Royal Brunei Airlines",
+    "Country": "Brunei",
+    "Description": "Southeast Asia, Australia, the Persian Gulf and the UK, from headquarters in Bandar Seri Begawan"
+  },
+  {
+    "Code": "RJ",
+    "Airline": "Royal Jordanian",
+    "Country": "Jordan",
+    "Description": "Airbuses from Amman to the Middle East and Europe"
+  },
+  {
+    "Code": "RA",
+    "Airline": "Royal Nepal",
+    "Country": "Nepal",
+    "Description": "Kathmandu to select European and East Asian cities"
+  },
+  {
+    "Code": "WR",
+    "Airline": "Royal Tongan Airlines",
+    "Country": "Tonga",
+    "Description": ""
+  },
+  {
+    "Code": "AWS",
+    "Airline": "Royal Wings",
+    "Country": "Jordan",
+    "Description": "Scheduled flights from Amman to Haifa, Tel Aviv, Gaza and Aqaba, plus charters"
+  },
+  {
+    "Code": "RYN",
+    "Airline": "Ryan International Airlines",
+    "Country": "USA",
+    "Description": "Holiday destinations from Kansas City, plus cargo for Emery Worldwide"
+  },
+  {
+    "Code": "FR",
+    "Airline": "Ryanair",
+    "Country": "Ireland",
+    "Description": "Budget flights from Dublin to Europe on twenty-two 737s"
+  },
+  {
+    "Code": "FA",
+    "Airline": "Safair",
+    "Country": "South Africa",
+    "Description": "Passenger and cargo flights with 727s, MD80s and Hercules L382Gs"
+  },
+  {
+    "Code": "S2",
+    "Airline": "Sahara India Airlines",
+    "Country": "India",
+    "Description": "Domestic airline flies B737-400s and helicopters"
+  },
+  {
+    "Code": "----",
+    "Airline": "Sakhalinskie Aviatrassy (SAT)",
+    "Country": "Russia",
+    "Description": "Connects Sakhalin Island with Japan, Korea, China and eastern Russia"
+  },
+  {
+    "Code": "E5",
+    "Airline": "Samara Airlines",
+    "Country": "Russia",
+    "Description": "Domestic flights on Tupolevs, Ilushyns, Yakolevs and Antonovs"
+  },
+  {
+    "Code": "RZ",
+    "Airline": "Sansa",
+    "Country": "Costa Rica",
+    "Description": "One of Grupo Taca's regional airlines. Fifteen domestic destinations"
+  },
+  {
+    "Code": "----",
+    "Airline": "Santa Barbara Airlines",
+    "Country": "Venezuela",
+    "Description": "Caracas to Madrid, Tenerife and Quito"
+  },
+  {
+    "Code": "SK",
+    "Airline": "SAS",
+    "Country": "Sweden",
+    "Description": "Boeings and MDs to North America, Europe and Asia"
+  },
+  {
+    "Code": "SP",
+    "Airline": "SATA",
+    "Country": "Portugal",
+    "Description": "Includes Sata Air Acores, Sata Internacional, Sata Express and Azores Express"
+  },
+  {
+    "Code": "SP",
+    "Airline": "Sata Air Aores",
+    "Country": "Portugal",
+    "Description": "Flights between the islands, and to Toronto, Boston, Lisbon, Porto and Madeira"
+  },
+  {
+    "Code": "SV",
+    "Airline": "Saudi Arabian Airlines",
+    "Country": "Saudi Arabia",
+    "Description": "126 planes connect the Arabian Peninsula to major world destinations"
+  },
+  {
+    "Code": "----",
+    "Airline": "Sayakhat Airlines",
+    "Country": "Russia",
+    "Description": "Cargo (Ilyushin 76TD) and passenger (Tupolev 154M) flights"
+  },
+  {
+    "Code": "CB",
+    "Airline": "Scot Airways",
+    "Country": "Scotland",
+    "Description": "Used to be Suckling Airways"
+  },
+  {
+    "Code": "SE",
+    "Airline": "Seair",
+    "Country": "Philippines",
+    "Description": "A complete domestic schedule, plus an amphibean Dornier DO-24 for charter"
+  },
+  {
+    "Code": "SG",
+    "Airline": "Sempati Air",
+    "Country": "Indonesia",
+    "Description": "A Fokker 70"
+  },
+  {
+    "Code": "----",
+    "Airline": "Servicios Areos Profesionales",
+    "Country": "Dominican Republic",
+    "Description": "Throughout the Caribbean, Florida, Yucatan and Venezuela"
+  },
+  {
+    "Code": "NL",
+    "Airline": "Shaheen Air International",
+    "Country": "Pakistan",
+    "Description": "Karachi, Islamabad, Lahore and Peshawar, plus Abu Dhabi, Dubai, Kuwait, Alain and Muscat"
+  },
+  {
+    "Code": "SC",
+    "Airline": "Shandong Airline",
+    "Country": "China",
+    "Description": "Domestic flights on 737s and SAAB-340s"
+  },
+  {
+    "Code": "FM",
+    "Airline": "Shanghai Airlines",
+    "Country": "China",
+    "Description": "Boeing 737s, 757s, and 767s to major Asian and European destinations"
+  },
+  {
+    "Code": "3S",
+    "Airline": "Shuswap Air",
+    "Country": "Canada",
+    "Description": "Charters a Beech King from Salmon Arm, BC"
+  },
+  {
+    "Code": "S5",
+    "Airline": "Shuttle America",
+    "Country": "USA",
+    "Description": "Dash 8s in the northeast US"
+  },
+  {
+    "Code": "S7",
+    "Airline": "Siberia Airlines",
+    "Country": "Russia",
+    "Description": "International and domestic service on Tupolevs and Ilushyns"
+  },
+  {
+    "Code": "3U",
+    "Airline": "Sichuan Airlines",
+    "Country": "China",
+    "Description": "Connects Sichuan province to the rest of China"
+  },
+  {
+    "Code": "MI",
+    "Airline": "Silk Air",
+    "Country": "Singapore",
+    "Description": "This regional wing of Singapore Airlines flies A320s"
+  },
+  {
+    "Code": "SQ",
+    "Airline": "Singapore Airlines",
+    "Country": "Singapore",
+    "Description": "747s and 777s to world destinations"
+  },
+  {
+    "Code": "5U",
+    "Airline": "Skagway Air Service",
+    "Country": "USA",
+    "Description": "Daily flights between Juneau and Skagway, Alaska"
+  },
+  {
+    "Code": "SK",
+    "Airline": "Skyline Airways",
+    "Country": "Nepal",
+    "Description": "Domestic flights"
+  },
+  {
+    "Code": "SSV",
+    "Airline": "Skyservice",
+    "Country": "Canada",
+    "Description": "From Toronto to holiday destinations"
+  },
+  {
+    "Code": "NP",
+    "Airline": "Skytrans Airlines",
+    "Country": "Australia",
+    "Description": "Various small aircraft perform scheduled and charter duties in Queensland"
+  },
+  {
+    "Code": "VW",
+    "Airline": "Skyways",
+    "Country": "Sweden",
+    "Description": "Domestic partner of SAS uses Saabs, Fokkers and Jetstreams"
+  },
+  {
+    "Code": "AN",
+    "Airline": "Skywest",
+    "Country": "Australia",
+    "Description": "Extensive domestic routes in western Australia. Based in Perth"
+  },
+  {
+    "Code": "YT",
+    "Airline": "Skywest",
+    "Country": "USA",
+    "Description": "Brasilia EMB-120s and Canadair Regionals out of Salt Lake City, LAX and San Francisco"
+  },
+  {
+    "Code": "6Q",
+    "Airline": "Slovak Airlines",
+    "Country": "Slovakia",
+    "Description": "TU-154 and B737 service from Bratislava to Brussels and Moscow"
+  },
+  {
+    "Code": "SN",
+    "Airline": "SN Brussels Airline",
+    "Country": "Belgium",
+    "Description": "The new national airline"
+  },
+  {
+    "Code": "Q7",
+    "Airline": "Sobel Air",
+    "Country": "Belgium",
+    "Description": "A charter remnant of Sabena"
+  },
+  {
+    "Code": "IE",
+    "Airline": "Solomon Airlines",
+    "Country": "Solomon Islands",
+    "Description": "To Australia and neighbouring islands on B737s, three Islanders, and two Twin Otters"
+  },
+  {
+    "Code": "DL",
+    "Airline": "Song",
+    "Country": "USA",
+    "Description": "Delta's low cost carrier"
+  },
+  {
+    "Code": "4Z",
+    "Airline": "South African Airlink",
+    "Country": "South Africa",
+    "Description": "Embraers and Jetstreams feed the parent airline"
+  },
+  {
+    "Code": "SA",
+    "Airline": "South African Airways",
+    "Country": "South Africa",
+    "Description": "Flag carrier"
+  },
+  {
+    "Code": "YB",
+    "Airline": "South African Express Airways",
+    "Country": "South Africa",
+    "Description": "Connector flights centered in Johannsburg"
+  },
+  {
+    "Code": "M2",
+    "Airline": "Southeast Air Freight",
+    "Country": "Bahamas",
+    "Description": "Daily scheduled freight service between Nassau and Freeport"
+  },
+  {
+    "Code": "QF",
+    "Airline": "Southern Australia Airlines",
+    "Country": "Australia",
+    "Description": "Qantas-owned regional airline based in Victoria"
+  },
+  {
+    "Code": "A4",
+    "Airline": "Southern Winds",
+    "Country": "Argentina",
+    "Description": "Buenos Aires to points in Argentina, and Madrid to points in Spain and Europe"
+  },
+  {
+    "Code": "WN",
+    "Airline": "Southwest Airlines",
+    "Country": "USA",
+    "Description": "737s to 54 domestic destinations"
+  },
+  {
+    "Code": "NR",
+    "Airline": "Spanair",
+    "Country": "Spain",
+    "Description": "Domestic flights plus major South American and European destinations"
+  },
+  {
+    "Code": "----",
+    "Airline": "Spirit Airlines",
+    "Country": "Australia",
+    "Description": "No-frills domestic flights"
+  },
+  {
+    "Code": "IM",
+    "Airline": "Spirit Airlines",
+    "Country": "USA",
+    "Description": "Flights between Florida and the northeast"
+  },
+  {
+    "Code": "UL",
+    "Airline": "SriLankan",
+    "Country": "Sri Lanka",
+    "Description": "Flag carrier goes to Europe, Asia and the Middle East. Previously \"AirLanka"
+  },
+  {
+    "Code": "FS",
+    "Airline": "Staf Cargo Airlines",
+    "Country": "USA",
+    "Description": "DC-10 and 747 freighters from Miami to South America"
+  },
+  {
+    "Code": "NB",
+    "Airline": "Sterling",
+    "Country": "Denmark",
+    "Description": "Low-cost flight from Copenhagen and Stockholm to Mediterranean hotspots"
+  },
+  {
+    "Code": "SD",
+    "Airline": "Sudan Airways",
+    "Country": "Sudan",
+    "Description": "B707s, B737s and an A300"
+  },
+  {
+    "Code": "2S",
+    "Airline": "Sun Air",
+    "Country": "Fiji",
+    "Description": "Domestic flights on De Havillands and Beechcraft out of Nadi International Airport"
+  },
+  {
+    "Code": "BU",
+    "Airline": "Sun Air",
+    "Country": "South Africa",
+    "Description": "Flights between Johannesburg, Cape Town and Durban"
+  },
+  {
+    "Code": "EZ",
+    "Airline": "Sun Air",
+    "Country": "Denmark",
+    "Description": "Jetstreams between Sweden, Norway, Ireland and Germany"
+  },
+  {
+    "Code": "SY",
+    "Airline": "Sun Country Airlines",
+    "Country": "USA",
+    "Description": "Low fares from Minneapolis/St. Paul to holiday destinations, plus charters"
+  },
+  {
+    "Code": "JX",
+    "Airline": "SunJet",
+    "Country": "USA",
+    "Description": "Twenty daily flights between New York and Florida"
+  },
+  {
+    "Code": "----",
+    "Airline": "Sunrise Airlines",
+    "Country": "USA",
+    "Description": "Arizona, Utah and Nevada"
+  },
+  {
+    "Code": "PY",
+    "Airline": "Surinam Airways",
+    "Country": "Surinam",
+    "Description": ""
+  },
+  {
+    "Code": "W3",
+    "Airline": "Swiftair",
+    "Country": "Spain",
+    "Description": "Flies cargo for DHL"
+  },
+  {
+    "Code": "LX",
+    "Airline": "Swiss International Airlines",
+    "Country": "Switzerland",
+    "Description": "Worldwide destinations. Was Crossair"
+  },
+  {
+    "Code": "SO",
+    "Airline": "Swiss World",
+    "Country": "Switzerland",
+    "Description": "Geneva to Montreal, Newark and Miami"
+  },
+  {
+    "Code": "RB",
+    "Airline": "Syrianair",
+    "Country": "Syria",
+    "Description": "A320s, B727s and B747s to major European and Middle East capitals"
+  },
+  {
+    "Code": "TA",
+    "Airline": "TACA (Grupo Taca)",
+    "Country": "El Salvador",
+    "Description": "Lima, San Jose and San Salvador to the Americas"
+  },
+  {
+    "Code": "----",
+    "Airline": "Tahoe Air",
+    "Country": "USA",
+    "Description": "Lake Tahoe to LAX and San Jose"
+  },
+  {
+    "Code": "KK",
+    "Airline": "TAM",
+    "Country": "Brazil",
+    "Description": "An A319, A330s, Fokkers and Caravans"
+  },
+  {
+    "Code": "EQ",
+    "Airline": "TAME",
+    "Country": "Ecuador",
+    "Description": ""
+  },
+  {
+    "Code": "TP",
+    "Airline": "TAP Air Portugal",
+    "Country": "Portugal",
+    "Description": "737s and most of the Airbus family"
+  },
+  {
+    "Code": "RO",
+    "Airline": "TAROM",
+    "Country": "Romania",
+    "Description": "Romanian Air Transport  - Flag carrier flies to major world destinations"
+  },
+  {
+    "Code": "TG",
+    "Airline": "Thai Airways International",
+    "Country": "Thailand",
+    "Description": "A large and varied fleet"
+  },
+  {
+    "Code": "FQ",
+    "Airline": "Thomas Cook Airlines",
+    "Country": "Belgium",
+    "Description": "From Belgium to European holiday spots"
+  },
+  {
+    "Code": "SB",
+    "Airline": "TIE",
+    "Country": "USA",
+    "Description": "Trans International Express  - USA -  From JFK to Albany, NY, New Haven, CT and Binghampton, NY"
+  },
+  {
+    "Code": "----",
+    "Airline": "Tiger Airways",
+    "Country": "Singapore",
+    "Description": "Low-cost subsidiary of Singapore Airlines"
+  },
+  {
+    "Code": "AWC",
+    "Airline": "Titan Airways",
+    "Country": "UK",
+    "Description": "Corporate charters based at Stansted"
+  },
+  {
+    "Code": "FF",
+    "Airline": "Tower Air",
+    "Country": "USA",
+    "Description": "Select US and European destinations from their terminal at JFK"
+  },
+  {
+    "Code": "TL",
+    "Airline": "Trans Mediterranean Airways",
+    "Country": "Lebannon",
+    "Description": "Cargo flights on six B707s"
+  },
+  {
+    "Code": "9N",
+    "Airline": "Trans States Airlines",
+    "Country": "USA",
+    "Description": "Jetstreams serving 53 US cities"
+  },
+  {
+    "Code": "TW",
+    "Airline": "Trans World Airlines: TWA",
+    "Country": "USA",
+    "Description": "Major domestic carrier with world destinations"
+  },
+  {
+    "Code": "UN",
+    "Airline": "Transaero",
+    "Country": "Russia",
+    "Description": "Russia's first privately-owned airline flies to many major Russian and European cities"
+  },
+  {
+    "Code": "HV",
+    "Airline": "Transavia",
+    "Country": "Netherlands",
+    "Description": "Amsterdam to Eurpoean holiday spots"
+  },
+  {
+    "Code": "TR",
+    "Airline": "TransBrasil",
+    "Country": "Brazil",
+    "Description": "737s and 767s on domestic flights, plus some USA and Europe"
+  },
+  {
+    "Code": "DZ",
+    "Airline": "Transcaraibes Air International/Air Tropical",
+    "Country": "Guadeloupe",
+    "Description": "Island hopping in the French West Indies"
+  },
+  {
+    "Code": "T4",
+    "Airline": "Transeast Airlines",
+    "Country": "Latvia",
+    "Description": "From Riga to Jonkoping and Billund"
+  },
+  {
+    "Code": "9T",
+    "Airline": "Transwest Air",
+    "Country": "Canada",
+    "Description": "Manitoba and Saskatchewan. Previously Athabaska Air"
+  },
+  {
+    "Code": "U3",
+    "Airline": "Travelair",
+    "Country": "Costa Rica",
+    "Description": "From San Jose to anywhere in Costa Rica in less than an hour"
+  },
+  {
+    "Code": "PD",
+    "Airline": "Trillium Air",
+    "Country": "Canada",
+    "Description": "Serving Kitchener and Ottawa with Jetstream 31/Super31s"
+  },
+  {
+    "Code": "CN",
+    "Airline": "Tropic Air",
+    "Country": "Belize",
+    "Description": "Eight domestic flights, plus Flores (Tikal), Guatemala"
+  },
+  {
+    "Code": "6N",
+    "Airline": "TTA TransTravel",
+    "Country": "Netherlands",
+    "Description": "A Dash-8 and a Beech between Rotterdam, Hamburg, Gteborg and Copenhagen"
+  },
+  {
+    "Code": "TU",
+    "Airline": "Tunisair",
+    "Country": "Tunisia",
+    "Description": "Forty-seven flights a day to major European capitals"
+  },
+  {
+    "Code": "TK",
+    "Airline": "Turkish Airlines",
+    "Country": "Flag carrier",
+    "Description": ""
+  },
+  {
+    "Code": "VO",
+    "Airline": "Tyrolean Airways",
+    "Country": "Austria",
+    "Description": "Member of the Austrian Airlines Group flies to 49 destinations in 24 countries"
+  },
+  {
+    "Code": "PS",
+    "Airline": "Ukraine International Airlines",
+    "Country": "Ukraine",
+    "Description": "Jointly owned by the government, Swissair and the GPA Group, Inc."
+  },
+  {
+    "Code": "UA",
+    "Airline": "United Airlines",
+    "Country": "USA",
+    "Description": "Major international carrier"
+  },
+  {
+    "Code": "ZK",
+    "Airline": "United Express",
+    "Country": "USA",
+    "Description": "Great Lakes Aviation flights: Chicago Meigs and Springfield"
+  },
+  {
+    "Code": "U6",
+    "Airline": "Ural Airlines",
+    "Country": "Russia",
+    "Description": "Ekaterinburg to the rest of Russia"
+  },
+  {
+    "Code": "US",
+    "Airline": "US Airways",
+    "Country": "USA",
+    "Description": "Hubs at Pittsburgh, Charlotte, Philadelphia and Baltimore-Washington"
+  },
+  {
+    "Code": "HY",
+    "Airline": "Uzbekistan Airways",
+    "Country": "Uzbekistan",
+    "Description": "From Tashkent to Asia and Europe"
+  },
+  {
+    "Code": "V3",
+    "Airline": "Vanair",
+    "Country": "Vanuatu",
+    "Description": "Serves 29 airports in the archipelago"
+  },
+  {
+    "Code": "FT",
+    "Airline": "Vancouver Island Air",
+    "Country": "Canada",
+    "Description": "Beech seaplanes and deHavilland Beavers from Campbell River, BC"
+  },
+  {
+    "Code": "NJ",
+    "Airline": "Vanguard Airlines",
+    "Country": "USA",
+    "Description": "Ten domestic destinations"
+  },
+  {
+    "Code": "RG",
+    "Airline": "VARIG Airlines",
+    "Country": "Brazil",
+    "Description": "The nation's first airline dates back to the '20s"
+  },
+  {
+    "Code": "VP",
+    "Airline": "VASP",
+    "Country": "Brazil",
+    "Description": "MD-11s and 737s to 27 Brazilian cities and 12 international destinations"
+  },
+  {
+    "Code": "VN",
+    "Airline": "Vietnam Airlines",
+    "Country": "Vietnam",
+    "Description": "Europe and Asia from Hanoi and Ho Chi Minh City"
+  },
+  {
+    "Code": "VS",
+    "Airline": "Virgin Atlantic",
+    "Country": "UK",
+    "Description": "London and Manchester to major world cities"
+  },
+  {
+    "Code": "TV",
+    "Airline": "Virgin Express",
+    "Country": "Belgium",
+    "Description": "Commuter/feeder airline links ten European cities"
+  },
+  {
+    "Code": "VG",
+    "Airline": "VLM Airlines",
+    "Country": "Belgium",
+    "Description": "Regional flights on Fokkers"
+  },
+  {
+    "Code": "8D",
+    "Airline": "Volareweb",
+    "Country": "Italy",
+    "Description": "Low-cost arm of Volare Airlines"
+  },
+  {
+    "Code": "VI",
+    "Airline": "Volga-Dnepr Airlines",
+    "Country": "Russia",
+    "Description": "Super-heavy cargo on AN 124-100"
+  },
+  {
+    "Code": "4V",
+    "Airline": "Voyageur Airways",
+    "Country": "Canada",
+    "Description": "Ski charters in Ontario and Quebec"
+  },
+  {
+    "Code": "----",
+    "Airline": "Vueling Airlines",
+    "Country": "Spain",
+    "Description": "Low-cost holiday carrier"
+  },
+  {
+    "Code": "WG",
+    "Airline": "Wasaya Airways",
+    "Country": "Canada",
+    "Description": "Owned by eight Native Canadian communities"
+  },
+  {
+    "Code": "----",
+    "Airline": "West Caribbean Airways",
+    "Country": "Colombia",
+    "Description": "Domestic routes, plus Aruba, Panama City and San Jos"
+  },
+  {
+    "Code": "8O",
+    "Airline": "West Coast Air",
+    "Country": "Canada",
+    "Description": "Twin Otter service between Victoria's Inner Harbour and Vancouver's Coal Harbour"
+  },
+  {
+    "Code": "7Y",
+    "Airline": "West Isle Air",
+    "Country": "USA",
+    "Description": "Cessnas serving the San Juan Islands"
+  },
+  {
+    "Code": "EM",
+    "Airline": "Western Airlines",
+    "Country": "Australia",
+    "Description": "Flies from Perth to Geraldton, Kalbarri, Denham and Monkey Mia"
+  },
+  {
+    "Code": "M3",
+    "Airline": "WestJet",
+    "Country": "Canada",
+    "Description": "Twelve 737s serve 11 cities in western Canada"
+  },
+  {
+    "Code": "WF",
+    "Airline": "Wider?e Airline",
+    "Country": "Norway",
+    "Description": "Extensive domestic routes, plus seven international routes"
+  },
+  {
+    "Code": "9C",
+    "Airline": "Wimbi Dira Airways",
+    "Country": "Congo",
+    "Description": "Domestic flights out of Kinshasa"
+  },
+  {
+    "Code": "WNA",
+    "Airline": "WinAir",
+    "Country": "St. Maarten",
+    "Description": "Frequent service from St. Maarten to neighbouring islands"
+  },
+  {
+    "Code": "IV",
+    "Airline": "WindJet",
+    "Country": "Italy",
+    "Description": "Low-cost flights throughtout Italy and to select European cities"
+  },
+  {
+    "Code": "K5",
+    "Airline": "Wings of Alaska",
+    "Country": "USA",
+    "Description": "Cessnas, Beavers and Otters out of Juneau"
+  },
+  {
+    "Code": "W6",
+    "Airline": "Wizz",
+    "Country": "UK",
+    "Description": "Nine A320s serving Central and Eastern Europe"
+  },
+  {
+    "Code": "WO",
+    "Airline": "World Airways",
+    "Country": "USA",
+    "Description": "An MD-11 and a DC-10"
+  },
+  {
+    "Code": "MF",
+    "Airline": "Xiamen Airlines",
+    "Country": "China",
+    "Description": "Thiry-seven Boeings fly an extensive domestic network"
+  },
+  {
+    "Code": "HK",
+    "Airline": "Yangon Airways",
+    "Country": "Myanmar",
+    "Description": "Regional airline"
+  },
+  {
+    "Code": "IY",
+    "Airline": "Yemenia Airways",
+    "Country": "Yemen",
+    "Description": "From Sana'a to 25 cities in Europe, the Middle East and Africa"
+  },
+  {
+    "Code": "IY",
+    "Airline": "Yemenia Airways",
+    "Country": "Yemen",
+    "Description": "Unofficial North-American site"
+  },
+  {
+    "Code": "4Y",
+    "Airline": "Yute Air",
+    "Country": "USA",
+    "Description": "From Dillingham to western Alaska"
+  },
+  {
+    "Code": "----",
+    "Airline": "Zero-G",
+    "Country": "USA",
+    "Description": "Parabolic flight charters on a B727 out of Fort Lauderdale"
+  },
+  {
+    "Code": "Z4",
+    "Airline": "Zoom",
+    "Country": "Canada",
+    "Description": "Connects Canada and the UK with B767s"
+  }
+]
